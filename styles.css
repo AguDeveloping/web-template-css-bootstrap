@@ -1,0 +1,9 @@
+/* © Máster en CSS de Victor Robles Web ® https://www.victorroblesweb.es */
+#slider {
+    height: 450px;
+    overflow: hidden;
+}
+
+#slider img {
+    height: 450px;
+}
